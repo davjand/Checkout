@@ -1,6 +1,6 @@
-#Checkout Extension#
+# Checkout Extension
 
-##Thanks##
+## Thanks
 
 Thanks to several developers whos code I've stolen in various places due to my
 lack of basic symphony knowledge
